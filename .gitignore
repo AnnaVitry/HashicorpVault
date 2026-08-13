@@ -1,0 +1,13 @@
+# Fichiers d'environnement contenant potentiellement VAULT_TOKEN ou les SecretIDs
+.env
+.env.local
+
+# Fichiers de configuration Vault Agent locaux
+agent-config.hcl
+/opt/vault/role_id
+/opt/vault/secret_id
+
+# Caches et checkpoints Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
