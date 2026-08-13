@@ -1,6 +1,7 @@
 # Fichiers d'environnement contenant potentiellement VAULT_TOKEN ou les SecretIDs
 .env
 .env.local
+.venv/
 
 # Fichiers de configuration Vault Agent locaux
 agent-config.hcl
