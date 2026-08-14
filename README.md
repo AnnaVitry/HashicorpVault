@@ -82,4 +82,4 @@ Pour l'intégration de Vault dans des applications Python ou des carnets Jupyter
 *   [Dépôt GitHub du client Python hvac](https://github.com/hvac/hvac) : Le code source et les issues de la bibliothèque.
 *   [Documentation officielle du client hvac](https://python-hvac.org/) : Pour retrouver toutes les méthodes Python utilisées dans le projet (moteurs KV, Transit, PKI, AppRole, etc.).
 
-​*ദ്ദി​​꒰ᐢ. ̫ .ᐢ꒱​​ ​⭑​ by **Anna Vitry***
+​*​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ദ്ദി​​꒰ᐢ. ̫ .ᐢ꒱​​ ​⭑​ by **Anna Vitry**​ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑ ​⭑*
