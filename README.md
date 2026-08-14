@@ -14,9 +14,9 @@ Ce projet aborde HashiCorp Vault non pas comme un simple coffre-fort, mais comme
 ## ✸ Ressources et Supports de Cours
 
 Le dossier `exo_cours_prez` situé à la racine du dépôt contient les documents théoriques et les énoncés des exercices au format PDF :
-*   **Support complet :** `Complet_Hashicorp_Vault_11-08-2026.pdf`[cite: 2].
-*   **Partie 1 (Fondements Théoriques et Architecturaux) :** `Partie-1_Hashicorp_Vault_11-08-2026.pdf`[cite: 3].
-*   **Partie 2 (Exercices & Architecture) :** `Partie-2__Hashicorp_Vault_11-08-2026.pdf`[cite: 4].
+*   **Support complet :** `Complet_Hashicorp_Vault_11-08-2026.pdf`.
+*   **Partie 1 (Fondements Théoriques et Architecturaux) :** `Partie-1_Hashicorp_Vault_11-08-2026.pdf`.
+*   **Partie 2 (Exercices & Architecture) :** `Partie-2__Hashicorp_Vault_11-08-2026.pdf`.
 
 ---
 
@@ -60,3 +60,24 @@ L'environnement suppose l'utilisation d'un système basé sur Debian/Ubuntu et l
 *   **Infrastructure :** HashiCorp Vault
 *   **Langage :** Python 3
 *   **SDK et Outils :** `hvac` (HashiCorp Vault API Client), `requests`, Jupyter Notebook
+
+## ✸ Liens Utiles & Sources Officielles
+
+Ce projet s'appuie sur la documentation officielle d'HashiCorp et du SDK Python. Voici les ressources de référence pour approfondir les concepts abordés :
+
+### Théorie et Architecture
+*   [Dépôt GitHub officiel de HashiCorp Vault](https://github.com/hashicorp/vault) : Le code source du projet.
+*   [Documentation officielle HashiCorp Vault](https://developer.hashicorp.com/vault/docs) : La référence complète pour la configuration et les API.
+*   [Présentation conceptuelle ("What is Vault?")](https://developer.hashicorp.com/vault/docs/about-vault/what-is-vault) : Pour comprendre la philosophie et l'architecture globale.
+
+### Tutoriels et Pratique (HashiCorp Learn)
+*   [Bibliothèque globale des tutoriels Vault](https://developer.hashicorp.com/vault/tutorials) : L'ensemble des guides pratiques officiels.
+*   [Parcours d'initiation "Vault Foundations"](https://developer.hashicorp.com/vault/tutorials/get-started) : Les bases pour bien démarrer.
+*   [Operations Quick Start](https://developer.hashicorp.com/vault/docs/get-started/operations-qs) : Guide rapide sur la CLI, le moteur KV, AppRole et les Policies.
+*   [Prise en main de l'interface en ligne de commande (CLI)](https://developer.hashicorp.com/vault/tutorials/get-started/learn-cli) : Pour maîtriser les commandes d'administration.
+*   [Prise en main de l'interface web (UI)](https://developer.hashicorp.com/vault/tutorials/get-started/learn-ui) : Exploration via l'interface graphique.
+
+### SDK Python (`hvac`)
+Pour l'intégration de Vault dans des applications Python ou des carnets Jupyter, ce projet utilise le SDK officiel `hvac` :
+*   [Dépôt GitHub du client Python hvac](https://github.com/hvac/hvac) : Le code source et les issues de la bibliothèque.
+*   [Documentation officielle du client hvac](https://python-hvac.org/) : Pour retrouver toutes les méthodes Python utilisées dans le projet (moteurs KV, Transit, PKI, AppRole, etc.).
