@@ -6,7 +6,6 @@ Ce dépôt contient un environnement d'apprentissage et de validation d'architec
 
 Ce projet aborde HashiCorp Vault non pas comme un simple coffre-fort, mais comme le cœur cryptographique dynamique d'une infrastructure moderne :
 *   **Idempotence :** Déploiement destructif et reconstructif des politiques et des rôles.
-*   **Résilience :** Gestion du problème de l'œuf et de la poule (Bootstrapping) pour l'amorçage des secrets.
 *   **Zero Trust :** Application stricte du principe de moindre privilège via des jetons éphémères et des politiques restrictives.
 
 ---
